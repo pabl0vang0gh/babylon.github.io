@@ -1,0 +1,77 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h3 {
+	font-size: 70px;
+	font-family: courier new;
+	text-align: center;
+}
+
+p {
+	font-size: 50px;
+	font-family: courier new;
+	text-align: center;
+}
+
+#titlescreen {
+	text-align: center;
+	font-size: 50px;
+	font-family: courier new;
+	background-image: linear-gradient(violet, purple);
+	color: white;
+	height: 800px;
+}
+
+#titlescreen p {
+	font-size: 20px;
+}
+
+video {
+	display: block;
+	margin: auto;
+	padding: 100px;
+}
+
+#piece1 {
+	background-image: linear-gradient(purple, orange);
+	color: yellow;
+	height: 1200px;
+}
+
+#piece2 {
+	background-image: linear-gradient(orange, black);
+	color: yellow;
+	height: 1200px;
+}
+
+#piece3 {
+	background-image: linear-gradient(black, red);
+	color: red;
+	height: 1200px;
+}
+
+#piece4 {
+	background-image: linear-gradient(red, blue);
+	color: black;
+	height: 1200px;
+}
+
+#piece5 {
+	background-image: linear-gradient(blue, green);
+	color: yellow;
+	height: 1200px;
+}
+
+#piece6 {
+	background-image: linear-gradient(green, white);
+	color: white;
+	height: 1200px;
+}
+
+#piece7 {
+	background-image: linear-gradient(white, violet);
+	color: black;
+	height: 1200px;
+}
